@@ -1,4 +1,4 @@
-#Latitude financial coding challenge
+# Latitude financial coding challenge
 
-##Assumptions made
+## Assumptions made
 - Stock price cannot fall below 0
