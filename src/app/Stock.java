@@ -10,7 +10,7 @@ public class Stock {
      * @return The maximum profit
      */
     public int maximiseProfit(int[] stockPrices) {
-        if(stockPrices == null || stockPrices.length < 2) {
+        if (stockPrices == null) {
             return 0;
         }
 
